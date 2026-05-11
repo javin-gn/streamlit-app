@@ -1,4 +1,4 @@
-name: streamlit_app
+name: git p
 channels:
   - conda-forge
   - defaults
