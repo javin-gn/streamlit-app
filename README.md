@@ -1,3 +1,3 @@
-# Streamlit Lesson for NTU Data Science and AI Module 1
+# A dashboard from Singapore Resale Data build using Streamapp
 
-Refer to [lesson.md](lesson.md) for details.
+
